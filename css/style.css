@@ -1,0 +1,10 @@
+.mycard{
+    -webkit-box-shadow: 9px 9px 16px 7px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 9px 16px 7px rgba(0,0,0,0.75);
+box-shadow: 9px 9px 16px 7px rgba(0,0,0,0.75);
+}
+
+.mycard:hover{
+border: 1px solid greenyellow;
+}
+
