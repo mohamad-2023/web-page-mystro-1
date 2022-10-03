@@ -8,3 +8,10 @@ box-shadow: 9px 9px 16px 7px rgba(0,0,0,0.75);
 border: 1px solid greenyellow;
 }
 
+.a{
+    background-color: bisque;
+}
+.foot_picture{
+background-image: url(../imges/img8.jpg);
+
+}
